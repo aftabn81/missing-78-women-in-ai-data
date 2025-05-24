@@ -1,25 +1,38 @@
 name: Deploy MyST Site
-on:      
+on:
   push:
     branches:
       - main
+
+# Add permissions here at the workflow level
+# This grants the GITHUB_TOKEN the necessary permissions for the peaceiris/actions-gh-pages action
+permissions:
+  contents: write  # Required to push to gh-pages branch
+  pages: write     # Required to deploy to GitHub Pages
+  actions: read    # Default, good to have for reading action status
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3 # Consider updating to v4 for latest features/fixes
+
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3 # Consider updating to v4
         with:
           node-version: 18
+
       - name: Install MyST CLI
         run: npm install -g mystmd
+
       - name: Build site
         run: myst build --html
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_build/html 
+          publish_dir: ./_build/html
           publish_branch: gh-pages
+          

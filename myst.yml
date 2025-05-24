@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3f06bee1-68c6-4429-ae9b-daa1a79c348b
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/aftabn81/missing-78-women-in-ai-data
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

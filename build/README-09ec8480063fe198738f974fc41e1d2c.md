@@ -15,7 +15,9 @@ Explore the materials, share your insights, and join the contributor list to be 
 
 ## 🔗 Useful Links
 
-- 🌐 [Project Website](https://aftabn81.github.io/missing-78-women-in-ai-data/)
-- 💬 [Join the Discussion](#) *(optional: link to discussion or issues tab)*
-- 📩 [Contact Noor](#) *(optional: link to your contact or profile)*
+- 🌐 **[Visit the Project Website](https://aftabn81.github.io/missing-78-women-in-ai-data/)**  
+Explore articles, resources, and tools designed to spotlight and address the gender gap in AI & Data.
+
+- 📩 **[Connect with Noor on GitHub](https://github.com/aftabn81)**  
+Interested in contributing or collaborating? Reach out — I’d love to connect with you!
 

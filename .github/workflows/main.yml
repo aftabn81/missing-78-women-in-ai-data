@@ -1,5 +1,5 @@
 name: Deploy MyST Site
-      
+on:      
   push:
     branches:
       - main

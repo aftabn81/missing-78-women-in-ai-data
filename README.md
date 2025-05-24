@@ -1,20 +1,21 @@
 # 🌟 The Missing 78%: Women in AI & Data 🌟
 
-Welcome to this space dedicated to **Noor Aftab’s passionate mission** to spotlight the deep gender gap in AI and data science — where women make up just 22% of the global AI workforce. But this isn’t just about numbers — it’s about the **critical loss of diverse voices** essential for building ethical, effective, and inclusive AI systems.
+This project is part of **Noor Aftab’s mission** to spotlight the gender gap in AI and data science — where women make up just 22% of the global AI workforce. This gap isn’t just a number; it represents the **critical loss of diverse voices** essential for building ethical, effective, and inclusive AI systems.
 
-As the **IBM Women in AI User Group Lead** and an advocate for inclusive innovation, Noor draws from her talks at **PyData Global 2024**, **SciPy 2025**, and other global platforms to show how this imbalance leads to biased algorithms, overlooked needs, and missed opportunities for innovation.
+## 📌 What’s Inside
 
-Here you’ll find:
-✅ **Resources**  
-✅ **Slides**  
-✅ **Case studies**  
-✅ **Actionable tools**  
+- Resources and research on women’s representation in AI and data
+- Slides and materials from Noor’s talks at **PyData Global 2024**, **SciPy 2025**, and beyond
+- Case studies and tools to help advance gender inclusion in tech
+- Contributor opportunities to join the mission
 
-These materials are designed to help you **join the movement**. Noor’s broader work — through **IBM Women in AI, TechWomen mentorship, and leadership roles at NumFOCUS** — is all about creating diverse communities where every voice matters.
+## 🚀 Get Involved
 
-✨ **Ready to help close the gap?**  
-Dive in, explore the materials, and consider joining the contributor list to become part of this vital mission. Together, we can help shape an AI future designed *by everyone, for everyone*.
+Explore the materials, share your insights, and join the contributor list to be part of the change. Together, we can help shape an AI future designed *by everyone, for everyone*.
 
----
+## 🔗 Useful Links
 
-### 🔗 [Visit the Project Website](https://aftabn81.github.io/missing-78-women-in-ai-data/)
+- 🌐 [Project Website](https://aftabn81.github.io/missing-78-women-in-ai-data/)
+- 💬 [Join the Discussion](#) *(optional: link to discussion or issues tab)*
+- 📩 [Contact Noor](#) *(optional: link to your contact or profile)*
+
